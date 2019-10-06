@@ -2,6 +2,7 @@
  Discord Rich Presence for MCGamer Network
 
 # Screenshot
+![image](https://i.gyazo.com/1bf1ea3689aff2c4d1b72c3f897f8257.png)
 
 # Download
 - [Releases](https://github.com/SimplyRin/MCGamerRP/releases)
